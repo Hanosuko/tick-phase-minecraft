@@ -13,6 +13,8 @@
 > **Бои нашего теста с двух сторон:** [PvP от лица Hanosuko](https://youtu.be/-fOGpKdxE8g) · [PvP от лица PynPun](https://www.youtube.com/watch?v=50dloJN8rfE) · все записи также в [t.me/hanosuko](https://t.me/hanosuko)
 >
 > **Сервер, где сняты бои на пинге 2:** `cisprac.xyz`
+>
+> **Скачать мод Tick Sync:** [все версии на Modrinth](https://modrinth.com/mod/tick-sync/versions)
 
 ## Коротко
 
